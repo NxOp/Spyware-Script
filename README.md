@@ -1,4 +1,4 @@
-Spyware Script
+**Spyware Script**
 
 This Python script implements basic spyware functionalities for educational and demonstrative purposes. It demonstrates various invasive actions such as capturing screenshots, recording keystrokes, monitoring clipboard activity, and uploading captured data to a remote server using SFTP.
 
